@@ -870,15 +870,15 @@ box-shadow: 0px 0px 10px 1px rgba(4, 4, 4, 0.7);
    
 }
 
-#button:active #buttbody{
+#button:hover #buttbody{
   height: 40px;
   margin-top: 60px;
     
 } 
 
-#button:active #butttop{
+#button:hover #butttop{
   margin-top: 40px;
-  height: 40px;
+  
     
 } 
 
